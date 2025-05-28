@@ -824,12 +824,12 @@ main {
   header h1 {
     margin-right: 0;
   }
-.ig{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 3px ;
-}
+  .ig {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3px;
+  }
   /* Navigation adjustments */
   nav {
     top: 10px;
@@ -874,7 +874,7 @@ main {
   .st {
     min-width: auto;
   }
-  .st h2{
+  .st h2 {
     font-size: 10px;
   }
 
@@ -956,16 +956,17 @@ main {
   }
   /* Statistics section */
   .score {
-width: 90%;    padding: 10px 30px;
+    width: 90%;
+    padding: 10px 30px;
   }
 
   .st {
     min-width: auto;
   }
-  .st h2{
+  .st h2 {
     font-size: 10px;
   }
-lex {
+  lex {
     margin: 30px 5px;
     padding: 20px 10px;
   }
